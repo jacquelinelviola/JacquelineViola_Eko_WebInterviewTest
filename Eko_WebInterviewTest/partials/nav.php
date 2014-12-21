@@ -10,7 +10,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 	        </button>
-		    <a class="navbar-brand" href="index_2.php">
+		    <a class="navbar-brand" href="index.php">
 		      	<img src="images/LoopLogo.png" alt="Loop Logo" />
 		    </a>
 	    </div>
